@@ -5,7 +5,7 @@ app = Dash(__name__)
 server = app.server
 
 app.layout = html.Div([
-    html.Div('Frist Div'),
+    html.Div('First Div'),
     html.Div('Second Div'),
 ])
 
